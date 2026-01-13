@@ -1,0 +1,35 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "location"
+    ],
+    "content": [
+      "* Current location No location found. Try entering a different location Loading"
+    ],
+    "error": false
+  },
+  {
+    "index": 1,
+    "tags": [
+      "company"
+    ],
+    "content": [
+      "* Current company"
+    ],
+    "error": false
+  },
+  {
+    "index": 2,
+    "tags": [
+      "links"
+    ],
+    "content": [
+      "* LinkedIn URL",
+      "* GitHub URL",
+      "* Portfolio URL",
+      "* Other website"
+    ],
+    "error": false
+  }
+]

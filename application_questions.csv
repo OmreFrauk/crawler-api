@@ -1,0 +1,4 @@
+content,error,index,tags
+['* Current location No location found. Try entering a different location Loading'],False,0,['location']
+['* Current company'],False,1,['company']
+"['* LinkedIn URL', '* GitHub URL', '* Portfolio URL', '* Other website']",False,2,['links']
